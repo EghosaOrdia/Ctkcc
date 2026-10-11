@@ -3,9 +3,9 @@ export const CHURCH = {
   name: "Christ The King",
   portalName: "Member Portal",
   tagline: "A family gathered in worship, growing in love, serving our city.",
-  address: "14 Aminu Kano Crescent, Wuse II, Abuja, Nigeria",
+  address: "Ilasamaja, Lagos",
   phone: "+234 809 000 0000",
-  email: "hello@ctkcc.example",
+  email: "hello@ctkcc.com",
 };
 
 export const DEMO_CREDENTIALS = {
